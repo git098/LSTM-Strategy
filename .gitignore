@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.env
+*.bak
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.ipynb_history
+
+# Keras/TensorFlow models
+*.h5
+*.keras
+saved_models/
+
+# Data
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

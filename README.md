@@ -52,7 +52,7 @@ This script will:
 *   Run a backtesting simulation based on these predictions.
 *   Print a detailed performance report.
 
-## Trading Performance (LSTM Model: Train on COROMANDEL, Test on DABUR):
+## Trading Performance (LSTM Model: Training on Coromandel, Test on Dabur):
 
 ```
 --- LSTM Backtest Report (Train: COROMANDEL, Test: DABUR) ---

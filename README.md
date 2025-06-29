@@ -52,11 +52,7 @@ This script will:
 *   Run a backtesting simulation based on these predictions.
 *   Print a detailed performance report.
 
-## Trading Performance (LSTM Model: Train on COROMANDEL, Test on DABUR)
-
-**[PASTE YOUR EXACT PERFORMANCE REPORT HERE FROM THE LAST `train_and_test.py` RUN]**
-
-Example format (replace with your actual numbers):
+## Trading Performance (LSTM Model: Train on COROMANDEL, Test on DABUR):
 
 ```
 --- LSTM Backtest Report (Train: COROMANDEL, Test: DABUR) ---
@@ -67,16 +63,3 @@ Max Drawdown:         -30.87%
 Total Trades:         8550
 Win Rate:             46.20%
 ------------------------------------------------------------
-```
-
-## Jupyter Notebooks
-
-The `notebooks/` directory contains `model_performance.ipynb`, which can be used for further analysis, visualization, and proof of concept.
-
-To open Jupyter Notebooks:
-
-```bash
-jupyter notebook
-```
-
-Navigate to the `notebooks/` directory and open `model_performance.ipynb`.

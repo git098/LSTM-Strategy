@@ -56,8 +56,8 @@ This script will:
 
 ```
 --- LSTM Backtest Report (Train: COROMANDEL, Test: DABUR) ---
-Initial Equity:       $100,000.00
-Final Equity:         $155,106.55
+Initial Equity:       ₹100,000.00
+Final Equity:         ₹155,106.55
 Total Return:         55.11%
 Max Drawdown:         -30.87%
 Total Trades:         8550
